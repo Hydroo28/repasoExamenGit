@@ -6,4 +6,5 @@
 * Nata 
 * Azúcar
 
-*Servir con mermelada de fresa*
+*Servir con mermelada de fresa y sirope de chocolate*
+

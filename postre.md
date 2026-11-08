@@ -5,3 +5,5 @@
 * **Queso**
 * Nata 
 * Azúcar
+
+*Servir con sirope de chocolate*
